@@ -19,16 +19,16 @@
 
 * **Media player:** VLC.
 
-* **Antivirus:** Avira ou AVG.
+* **Antivirus:** Avira or AVG.
 
-* **File archiver:** WinRAR ou 7-Zip.
+* **File archiver:** WinRAR or 7-Zip.
 
 ## Software Engineering
 
 * **Text Editors:** Atom, Sublime Text, Brackets.
 * **IDE:** VS Code.
 * **Markdown Editor:** Typora.
-* **Versioning: ** Git.
+* **Versioning:** Git.
 * **Terminal:** Cmder.
 * **Virtualization:** VirtualBox.
 * **Runtime:** JRE.
